@@ -1,1 +1,1 @@
-# choictf.io
+phpinfo()
